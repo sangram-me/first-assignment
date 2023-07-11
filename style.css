@@ -179,13 +179,13 @@
 
 
 .galary{
+       width: 80%;
        text-align: center;
        padding: 40px 0;
-       width: 80%;
        margin: 0 auto;
 }
 .galary-image{
-       justify-content: center;
+       justify-content: space-between;
        display: flex;
        gap: 20px;
 }
@@ -209,9 +209,33 @@
        width: 280px;
 }
 .form{
-       background-image: url("");
+
        text-align: center;
        padding: 40px 0;
-       width: 80%;
        margin: 0 auto;
+       
+}
+.form-div1{
+       background-image: url("/Flower Asset/Rectangle 9.png");
+       background-position: center;
+       background-size: cover;
+       background-repeat: no-repeat;
+       margin: 40px auto;
+       height: 350px;
+}
+.form-title{
+       padding-top: 80px;
+       font-size: 35px;
+       padding-bottom: 15px;
+}
+.form-decsription{
+       padding-bottom: 35px;
+       
+}
+.input-text{
+       margin-right: 10px;
+       border-radius: 5px;
+       border-style: none;
+       padding: 10px 300px 10px 15px;
+
 }
