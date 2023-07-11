@@ -239,3 +239,47 @@
        padding: 10px 300px 10px 15px;
 
 }
+
+
+.map-head{
+       text-align: center;
+}
+.map-head .map-title{
+      padding-bottom: 15px;
+}
+.map-head .map-decsription{
+       padding-bottom: 50px;
+}
+.mappp{
+       margin-bottom: 80px;
+       text-align: center;
+}
+
+.map{
+       margin: auto;
+       padding: 30px auto;
+}
+
+.footer1{
+       color: white;
+       margin: 0 auto 30px;
+       text-align: center;
+       background-color: #000000;
+       height: 300px;
+}
+.footer1 h2{
+       padding: 100px 0 25px;
+}
+
+.footer-heading{
+       color: white;
+}
+.footer-span{
+       color: rgb(229, 84, 115);
+}
+.footer1 p{
+       padding-bottom: 20px;
+}
+.footer1 small{
+       color: rgba(255, 255, 255, .7);
+}
