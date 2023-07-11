@@ -14,7 +14,7 @@
         background-color: rgb(229, 84, 115);
 }
 
-/* Section -1 */
+
 .header {
         align-items: center;
         height: 100vh;
@@ -60,7 +60,6 @@
         width: 570px;
 }
 
-/* Section -2 */
 .services {
         text-align: center;
         padding: 40px 0;
@@ -261,6 +260,7 @@
 }
 
 .footer1{
+      
        color: white;
        margin: 0 auto 30px;
        text-align: center;
@@ -283,3 +283,4 @@
 .footer1 small{
        color: rgba(255, 255, 255, .7);
 }
+
